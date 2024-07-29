@@ -1,2 +1,1 @@
-# Projeto SGE
-### Sistema de Gestão Escolar
+# Projeto SGE ### Sistema de Gestão Escolar
