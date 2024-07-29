@@ -4,7 +4,7 @@
 
 <summary>Languages</summary>
 
-[English](https://teste.com) [Espanõl](https://teste.com)
+| [English](https://teste.com) | Espanõl](https://teste.com) |
 
 </details>
 
