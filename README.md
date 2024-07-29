@@ -2,8 +2,7 @@
 
 ## Oque é?
 
-O Sistema de gerenciamento escolar (ou somente SGE) é um projeto que visa 
-melhorar
+O Sistema de gerenciamento escolar (ou somente SGE) é um projeto que foi criado com a necessidade de aprimorar os sistemas de gerenciamento conhecidos e ultilizado nos meios de educação do Bostil, ultilizando-se de usabilidade, intuitividade e facilidade no uso da ferramenta.
 
 
 
