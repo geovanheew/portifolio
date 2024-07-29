@@ -19,7 +19,9 @@ Foi criado como um projeto de TCC no terceiro ano do ensino medio integrado ao c
 
 Foram utilizadas as seguintes linguas dentro desse projeto:
 **Linguagens de programação:**
-<div align="center">
+**Linguagens de programação:**
+<div style="display: flex; align-items: center;">
+  <span style="margin-right: 10px;">Linguagens de programação:</span>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
@@ -29,7 +31,8 @@ Foram utilizadas as seguintes linguas dentro desse projeto:
 </div>
 
 **Linguagens de marcação:**
-<div align="center">
+<div style="display: flex; align-items: center;">
+  <span style="margin-right: 10px;">Linguagens de marcação:</span>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   </a>
@@ -39,8 +42,10 @@ Foram utilizadas as seguintes linguas dentro desse projeto:
 </div>
 
 **Banco de dados:**
-<div align="center">
+<div style="display: flex; align-items: center;">
+  <span style="margin-right: 10px;">Banco de dados:</span>
   <a href="https://dev.mysql.com/doc/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </a>
 </div>
+
