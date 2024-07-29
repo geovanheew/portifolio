@@ -26,4 +26,4 @@ Foram utilizadas as seguintes linguas dentro desse projeto:
 [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 **Banco de dados:**
-![Texto Alternativo](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg | width=100)
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" data-canonical-src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="200" height="400" />
