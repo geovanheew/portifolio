@@ -4,9 +4,7 @@
 
 O Sistema de Gerenciamento Escolar (ou simplesmente SGE) é um projeto criado para aprimorar os sistemas de gerenciamento existentes e utilizados nos meios de educação do Brasil, focando em usabilidade, intuitividade e facilidade de uso da ferramenta.
 
-<a href="https://example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Click_Me-Blue?style=for-the-badge&logo=appveyor" alt="Clique Aqui">
-</a>
+<a href="https://example.com" target="_blank"></a>
 
 
 <details>
