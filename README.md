@@ -1,1 +1,2 @@
-# Macaco
+# Projeto SGE
+### Sistema de Gestão Escolar
