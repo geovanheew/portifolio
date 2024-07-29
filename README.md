@@ -18,34 +18,12 @@ Foi criado como um projeto de TCC no terceiro ano do ensino medio integrado ao c
 ## Línguas utilizadas
 
 Foram utilizadas as seguintes linguas dentro desse projeto:
-**Linguagens de programação:**
-**Linguagens de programação:**
-<div style="display: flex; align-items: center;">
-  <span style="margin-right: 10px;">Linguagens de programação:</span>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="https://www.php.net/manual/pt_BR/index.php" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  </a>
-</div>
 
-**Linguagens de marcação:**
-<div style="display: flex; align-items: center;">
-  <span style="margin-right: 10px;">Linguagens de marcação:</span>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  </a>
-</div>
+**Linguas de programação:**
+[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) [PHP](https://www.php.net/manual/pt_BR/index.php)
+
+**Linguas de marcação:**
+[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 **Banco de dados:**
-<div style="display: flex; align-items: center;">
-  <span style="margin-right: 10px;">Banco de dados:</span>
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </a>
-</div>
-
+[MySQL](https://dev.mysql.com/doc/)
