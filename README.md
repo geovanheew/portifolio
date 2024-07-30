@@ -11,16 +11,16 @@
 
 ## Integrantes:
 
-• [Daniel Costa Avelino](https://github.com/Danizera02)
-• [Fernando Ramirez Gutierrez](https://github.com/FernandoRamirez457)
-• [Gabriel Carvalho Feltrin](https://github.com/feltrinx)
-• [Geovanne de Souza Silva](https://github.com/geovanheew)
-• [Gloria]
-• [Julya]
-• [Luiz Fernando dos Santos Vieira](https://github.com/Luiz-FernandoSV)
-• [Maria Eduarda Silva Gonçalves]
-• [Nycollas Kelvin Braz de Jesus]
-• [Rafael Aguilar Kojima](https://github.com/Rafael-Kojima)
+- [Daniel Costa Avelino](https://github.com/Danizera02)
+- [Fernando Ramirez Gutierrez](https://github.com/FernandoRamirez457)
+- [Gabriel Carvalho Feltrin](https://github.com/feltrinx)
+- [Geovanne de Souza Silva](https://github.com/geovanheew)
+- [Gloria]
+- [Julya]
+- [Luiz Fernando dos Santos Vieira](https://github.com/Luiz-FernandoSV)
+- [Maria Eduarda Silva Gonçalves]
+- [Nycollas Kelvin Braz de Jesus]
+- [Rafael Aguilar Kojima](https://github.com/Rafael-Kojima)
 
 # 1. Introdução
 Nesse topico será apresentado oque é o projeto e como ele foi desenvolvido pelos seus desenvolvedores.
