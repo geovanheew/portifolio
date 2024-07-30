@@ -9,6 +9,17 @@
 
 </details>
 
+## Integrantes:
+
+[Daniel Costa Avelino]
+[Fernando Ramirez Gutierrez]
+[Gabriel Carvalho Feltrin]
+[Geovanne de Souza Silva](https://github.com/geovanheew)
+[Luiz Fernando dos Santos Vieira](https://github.com/Luiz-FernandoSV)
+[Maria Eduarda Silva Gonçalves]
+[Nycollas Kelvin Braz de Jesus]
+[Rafael Aguilar Kojima]
+
 ## Oque é?
 
 O Sistema de Gerenciamento Escolar (ou simplesmente SGE) é um projeto criado para aprimorar os sistemas de gerenciamento existentes e utilizados nos meios de educação do Brasil, focando em usabilidade, intuitividade e facilidade de uso da ferramenta.
@@ -27,3 +38,4 @@ Foram utilizadas as seguintes linguas dentro desse projeto:
 
 **Banco de dados:**
 [MySQL](https://dev.mysql.com/doc/)
+
